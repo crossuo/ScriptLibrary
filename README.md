@@ -36,6 +36,6 @@ function HelloSosaria(){
 1.  Create a github account.
 2.  Select the folder you want to add the script to.
 3.  Click `Create new file`.    
-4.  Enter a file name with the .oajs extension.
+4.  Enter a file name with the .js extension.
 5.  Copy and Paste the example header, modifying it for your snippet.
 6.  Create a pull request for your file.
