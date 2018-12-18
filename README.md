@@ -18,13 +18,17 @@ the author, shard the script was created for, and a brief description of how to 
 > Example:
 
 ```javascript
-// -- Orion Assistant Snippet
-// ++ Author: Deuce
-// ++ Discord Tag: Deuce#3277
-// ++ Purpose: This snippet will print Hello Sosaria to the
-//             OrionUO Client window. 
-// ++ Shard: Universal
-// ++ Config: None
+/*+++
+author = "Deuce"
+discord = "Deuce#3277"
+oaversion = "2.0.0"
+title = "acquire pvp target"
+description = """
+This snippet will target the closest PVP target. 
+The script will include innocent targets if the character is a murderer.
+"""
+categories = ["pvp"]
++++*/
 
 function HelloSosaria(){
     Orion.Print("Hello Sosaria");    
