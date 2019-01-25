@@ -1,7 +1,4 @@
-
-<img src="https://avatars1.githubusercontent.com/u/40122559?s=200&v=4">
-
-## OrionUO's Orion Assistant Snippet Library
+## CrossUO's Assist Snippet Library
 
 > This library is a reference wiki and a snippet repo. You will find snippets here 
 for various tasks, organized in folders that categorize them. 
